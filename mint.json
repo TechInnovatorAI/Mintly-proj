@@ -2,8 +2,8 @@
   "$schema": "https://mintlify.com/schema.json",
   "name": "Polymarket Learn",
   "logo": {
-    "dark": "/logo/dark.svg",
-    "light": "/logo/light.svg"
+    "dark": "/logo/polymarket-logo.svg",
+    "light": "/logo/polymarket-logo.svg"
   },
   "favicon": "/favicon.svg",
   "colors": {
@@ -33,19 +33,19 @@
   ],
   "anchors": [
     {
-      "name": "Documentation",
+      "name": "Developer Docs",
       "icon": "book-open-cover",
-      "url": "https://mintlify.com/docs"
+      "url": "https://polymarket.com/developer"
     },
     {
       "name": "Discord",
       "icon": "discord",
-      "url": "https://mintlify.com/community"
+      "url": "http://discord.gg/polymarket"
     },
     {
-      "name": "Blog",
-      "icon": "newspaper",
-      "url": "https://mintlify.com/blog"
+      "name": "Twitter",
+      "icon": "twitter",
+      "url": "https:/x.com/polymarket"
     }
   ],
   "navigation": [
