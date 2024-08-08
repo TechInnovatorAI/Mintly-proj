@@ -1,6 +1,6 @@
 {
   "$schema": "https://mintlify.com/schema.json",
-  "name": "Starter Kit",
+  "name": "Polymarket Learn",
   "logo": {
     "dark": "/logo/dark.svg",
     "light": "/logo/light.svg"
@@ -18,12 +18,12 @@
   "topbarLinks": [
     {
       "name": "Support",
-      "url": "mailto:hi@mintlify.com"
+      "url": "mailto:hello@polymarket.com"
     }
   ],
   "topbarCtaButton": {
-    "name": "Dashboard",
-    "url": "https://dashboard.mintlify.com"
+    "name": "Polymarket",
+    "url": "https://polymarket.com"
   },
   "tabs": [
     {
@@ -38,8 +38,8 @@
       "url": "https://mintlify.com/docs"
     },
     {
-      "name": "Community",
-      "icon": "slack",
+      "name": "Discord",
+      "icon": "discord",
       "url": "https://mintlify.com/community"
     },
     {
@@ -52,26 +52,33 @@
     {
       "group": "Get Started",
       "pages": [
-        "introduction",
-        "quickstart",
-        "development"
+        "what-is-polymarket",
+        "how-to-signup",
+        "how-to-deposit",
+        "making-your-first-trade",
+        "what-are-prediction-markets"
       ]
     },
     {
-      "group": "Essentials",
+      "group": "Deposits",
       "pages": [
-        "essentials/markdown",
-        "essentials/code",
-        "essentials/images",
-        "essentials/settings",
-        "essentials/navigation",
-        "essentials/reusable-snippets"
+        "deposits/coinbase",
+        "deposits/moonpay",
+        "deposits/robinhood",
+        "deposits/usdc-on-eth",
+        "deposits/large-cross-chain-deposits",
+        "deposits/how-to-withdraw",
       ]
     },
     {
-      "group": "API Documentation",
+      "group": "Trading",
       "pages": [
-        "api-reference/introduction"
+        "trading/using-the-orderbook",
+        "trading/limit-orders",
+        "trading/trading-rewards",
+        "trading/exiting-positions",
+        "trading/is-polymarket-the-house",
+        "trading/how-are-prices-calculated",
       ]
     },
     {
