@@ -69,6 +69,15 @@
       ]
     },
     {
+      "group": "Markets",
+      "icon": "money-bill-transfer",
+      "pages": [
+        "markets/can-anyone-make-a-market",
+        "markets/how-are-markets-created",
+        "markets/how-are-markets-resolved"
+      ]
+    },
+    {
       "group": "Trading",
       "icon": "money-bill",
       "pages": [
@@ -78,6 +87,16 @@
         "trading/exiting-positions",
         "trading/is-polymarket-the-house",
         "trading/how-are-prices-calculated"
+      ]
+    },
+    {
+      "group": "FAQ",
+      "icon": "money-bill",
+      "pages": [
+        "faq/is-my-money-safe",
+        "faq/how-to-export-private-key",
+        "faq/faq-rewards",
+        "faq/why-do-i-need-crypto",
       ]
     },
   {
