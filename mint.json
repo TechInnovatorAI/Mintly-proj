@@ -85,8 +85,8 @@
         "trading/limit-orders",
         "trading/trading-rewards",
         "trading/exiting-positions",
-        "trading/is-polymarket-the-house",
-        "trading/how-are-prices-calculated"
+        "trading/how-are-prices-calculated",
+        "trading/fees"
       ]
     },
     {
@@ -95,8 +95,10 @@
       "pages": [
         "faq/is-my-money-safe",
         "faq/how-to-export-private-key",
-        "faq/faq-rewards",
-        "faq/why-do-i-need-crypto"
+        "faq/why-do-i-need-crypto",
+        "faq/does-polymarket-have-an-api",
+        "faq/is-polymarket-the-house"
+
       ]
     }
   ],
