@@ -8,8 +8,8 @@
   "favicon": "/favicon.svg",
   "colors": {
     "primary": "#2E5CFF",
-    "light": "#2D9CDB",
-    "dark": "#BB6BD9",
+    "light": "#2E5CFF",
+    "dark": "#2E5CFF",
     "anchors": {
       "from": "#0D9373",
       "to": "#07C983"
@@ -25,12 +25,6 @@
     "name": "Polymarket",
     "url": "https://polymarket.com"
   },
-  "tabs": [
-    {
-      "name": "API Reference",
-      "url": "api-reference"
-    }
-  ],
   "anchors": [
     {
       "name": "Developer Docs",
