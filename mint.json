@@ -96,17 +96,9 @@
         "faq/is-my-money-safe",
         "faq/how-to-export-private-key",
         "faq/faq-rewards",
-        "faq/why-do-i-need-crypto",
+        "faq/why-do-i-need-crypto"
       ]
-    },
-  {
-    "group": "Endpoint Examples",
-    "pages": [
-      "api-reference/endpoint/get",
-      "api-reference/endpoint/create",
-      "api-reference/endpoint/delete"
-    ]
-  }
+    }
   ],
   "footerSocials": {
     "x": "https://x.com/polymarket",
