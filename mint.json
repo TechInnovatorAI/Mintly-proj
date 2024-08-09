@@ -8,11 +8,11 @@
   "favicon": "/favicon.svg",
   "colors": {
     "primary": "#2E5CFF",
-    "light": "#2E5CFF",
-    "dark": "#2E5CFF",
+    "light": "#2D9CDB",
+    "dark": "#BB6BD9",
     "anchors": {
-      "from": "#2D9CDB",
-      "to": "#BB6BD9"
+      "from": "#0D9373",
+      "to": "#07C983"
     }
   },
   "topbarLinks": [
@@ -26,6 +26,10 @@
     "url": "https://polymarket.com"
   },
   "tabs": [
+    {
+      "name": "API Reference",
+      "url": "api-reference"
+    }
   ],
   "anchors": [
     {
@@ -36,17 +40,17 @@
     {
       "name": "Discord",
       "icon": "discord",
-      "url": "https://discord.gg/polymarket"
+      "url": "http://discord.gg/polymarket"
     },
     {
       "name": "Twitter",
       "icon": "twitter",
-      "url": "https://x.com/polymarket"
+      "url": "https:/x.com/polymarket"
     }
   ],
   "navigation": [
     {
-      "group": "Get Started", 
+      "group": "Get Started",
       "icon": "play",
       "pages": [
         "what-is-polymarket",
@@ -80,6 +84,14 @@
         "trading/how-are-prices-calculated"
       ]
     },
+    {
+      "group": "Endpoint Examples",
+      "pages": [
+        "api-reference/endpoint/get",
+        "api-reference/endpoint/create",
+        "api-reference/endpoint/delete"
+      ]
+    }
   ],
   "footerSocials": {
     "x": "https://x.com/polymarket",
