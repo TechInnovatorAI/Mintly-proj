@@ -2,14 +2,14 @@
   "$schema": "https://mintlify.com/schema.json",
   "name": "Polymarket Learn",
   "logo": {
-    "dark": "/logo/polymarket-logo.svg",
+    "dark": "/image/polymarket-logo.svg",
     "light": "/logo/polymarket-logo.svg"
   },
   "favicon": "/favicon.svg",
   "colors": {
-    "primary": "#0D9373",
-    "light": "#07C983",
-    "dark": "#0D9373",
+    "primary": "#2E5CFF",
+    "light": "#2D9CDB",
+    "dark": "#BB6BD9",
     "anchors": {
       "from": "#0D9373",
       "to": "#07C983"
@@ -91,8 +91,8 @@
     }
   ],
   "footerSocials": {
-    "x": "https://x.com/mintlify",
-    "github": "https://github.com/mintlify",
-    "linkedin": "https://www.linkedin.com/company/mintsearch"
+    "x": "https://x.com/polymarket",
+    "github": "https://github.com/polymarket",
+    "linkedin": "https://www.linkedin.com/company/polymarket"
   }
 }
