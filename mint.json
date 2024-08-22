@@ -74,7 +74,9 @@
       "pages": [
         "markets/can-anyone-make-a-market",
         "markets/how-are-markets-created",
-        "markets/how-are-markets-resolved"
+        "markets/how-are-markets-resolved",
+        "markets/dispute",
+        "markets/how-are-markets-clarified"
       ]
     },
     {
@@ -83,7 +85,7 @@
       "pages": [
         "trading/using-the-orderbook",
         "trading/limit-orders",
-        "trading/trading-rewards",
+        "trading/no-limits",
         "trading/exiting-positions",
         "trading/how-are-prices-calculated",
         "trading/fees"
@@ -97,6 +99,10 @@
         "faq/how-to-export-private-key",
         "faq/why-do-i-need-crypto",
         "faq/does-polymarket-have-an-api",
+        "faq/sell-early",
+        "faq/embeds",
+        "faq/wen-token",
+        "faq/support",
         "faq/is-polymarket-the-house"
 
       ]
